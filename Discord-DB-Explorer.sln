@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discord_DB_Explorer.Module", "Discord_DB_Explorer.Module\Discord_DB_Explorer.Module.csproj", "{6F81A0C7-0DA5-4AAC-923C-9ED238EFF778}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discord_DB_Explorer.Win", "Discord_DB_Explorer.Win\Discord_DB_Explorer.Win.csproj", "{0D97B656-791D-4A43-9306-6CFEDBB71D48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discord_DB_Explorer.Blazor.Server", "Discord_DB_Explorer.Blazor.Server\Discord_DB_Explorer.Blazor.Server.csproj", "{69A67591-0F92-40FF-8A2C-F0CACCA956B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F81A0C7-0DA5-4AAC-923C-9ED238EFF778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F81A0C7-0DA5-4AAC-923C-9ED238EFF778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F81A0C7-0DA5-4AAC-923C-9ED238EFF778}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{6F81A0C7-0DA5-4AAC-923C-9ED238EFF778}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{6F81A0C7-0DA5-4AAC-923C-9ED238EFF778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F81A0C7-0DA5-4AAC-923C-9ED238EFF778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D97B656-791D-4A43-9306-6CFEDBB71D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D97B656-791D-4A43-9306-6CFEDBB71D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D97B656-791D-4A43-9306-6CFEDBB71D48}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{0D97B656-791D-4A43-9306-6CFEDBB71D48}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{0D97B656-791D-4A43-9306-6CFEDBB71D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D97B656-791D-4A43-9306-6CFEDBB71D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A67591-0F92-40FF-8A2C-F0CACCA956B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A67591-0F92-40FF-8A2C-F0CACCA956B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A67591-0F92-40FF-8A2C-F0CACCA956B5}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{69A67591-0F92-40FF-8A2C-F0CACCA956B5}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{69A67591-0F92-40FF-8A2C-F0CACCA956B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A67591-0F92-40FF-8A2C-F0CACCA956B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
